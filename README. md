@@ -1,0 +1,38 @@
+# 🛒 E-Commerce Website
+
+## 📌 Project Description
+This is a fully functional eCommerce website developed using HTML, CSS, PHP, and MySQL. It allows users to browse products, add them to cart, and place orders.
+
+## 🚀 Features
+- User Registration & Login
+- Product Listing with Images
+- Add to Cart System
+- Checkout Functionality
+- Admin Panel (Add, Update, Delete Products)
+- Database Integration (MySQL)
+
+## 🛠️ Technologies Used
+- HTML
+- CSS
+- PHP
+- MySQL
+
+## 📸 Screenshots
+[Home Page]()
+
+## 🔗 Live Demo
+(Add your live link here if available)
+
+## 💻 How to Run Project
+1. Download the project  
+2. Move folder to htdocs (XAMPP)  
+3. Import database (.sql file)  
+4. Start Apache & MySQL  
+5. Open in browser  
+
+## 🚧 Future Improvements
+- Add JavaScript for better UI  
+  
+
+## 🙌 Author
+Aryan
